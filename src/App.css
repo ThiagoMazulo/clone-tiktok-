@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app {
+  background-color: black;
+  height: 800px;
+  max-height: 80%;
+  max-width: 800px;
+  width: 80%;
+
+}
