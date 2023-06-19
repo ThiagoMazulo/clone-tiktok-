@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Video from './pages/Video';
 
+
 function App() {
 
   return (
@@ -9,7 +10,9 @@ function App() {
     
     <div className='app'>
       <div className='app_videos'>
-        video
+        
+        <Video/>
+        <Video/>
         <Video/>
 
       </div>
