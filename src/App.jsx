@@ -10,11 +10,9 @@ function App() {
     
     <div className='app'>
       <div className='app_videos'>
-        
         <Video/>
         <Video/>
         <Video/>
-
       </div>
 
     </div>

@@ -1,0 +1,19 @@
+
+
+.videoFooter {
+    position: relative;
+    bottom: 150px;
+    left: 40px;
+    color: #fff;
+    
+}
+.videoFooter_text h3 {
+    padding-bottom: 20px;
+}
+.videoFooter_text p {
+    padding-bottom: 5px;
+}
+.videoFooter_music {
+    display: flex;
+    
+}
